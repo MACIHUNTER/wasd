@@ -1,0 +1,2 @@
+# wasd
+A git kezelése

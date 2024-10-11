@@ -1,2 +1,2 @@
 # wasd
-A git kezelése
+A git kezelése ez az első valtoztatás
